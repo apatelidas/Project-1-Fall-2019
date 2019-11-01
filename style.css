@@ -1,6 +1,6 @@
 body {
-	background-image: url("media/pavesketch.jpg"), url("media/pave1.jpg"), url("media/pave1.jpg");
-	background-size: cover;
+	background-image: url("media/pavesketch.jpg"), url("media/pave1.jpg");
+	background-size: 400px 200px, cover;
 }
 h2 {
 	font-family: "Calibri", cursive;
