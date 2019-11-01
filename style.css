@@ -4,7 +4,7 @@ body {
 	background-image: url("media/pavesketch.jpg"), url("media/pave1.jpg");
 	background-size: 400px 200px, cover;
 }
-.navbar navbar-default {
+.navbar {
 	margin-left: auto;
 	margin-right: auto;
 	padding: 30px;
