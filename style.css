@@ -1,6 +1,20 @@
 body {
+	margin: 0;
+	padding: 0;
 	background-image: url("media/pavesketch.jpg"), url("media/pave1.jpg");
 	background-size: 400px 200px, cover;
+}
+.navbar navbar-default {
+	margin: 0;
+	padding: 0;
+}
+.container-fluid {
+	margin: 0;
+	padding: 0;
+}
+.navbar-header {
+	margin: 0;
+	padding: 0;
 }
 h2 {
 	font-family: "Calibri", cursive;
